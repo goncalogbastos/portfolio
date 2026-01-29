@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "Personal portfolio and CV website built with React, TypeScript, Tailwind CSS, and shadcn/ui. Features responsive design, JSON-based content management, and automated GitHub Pages deployment.",
+      "technologies": ["React", "TypeScript", "Tailwind CSS", "Vite"],
+      "github": "https://github.com/johndoe/portfolio",
+      "live": "https://johndoe.github.io/portfolio",
+      "image": ""
+    },
+    {
+      "title": "Task Management App",
+      "description": "Full-stack task management application with real-time collaboration features. Supports drag-and-drop boards, team workspaces, and activity tracking.",
+      "technologies": ["React", "Node.js", "PostgreSQL", "WebSocket"],
+      "github": "https://github.com/johndoe/task-manager",
+      "live": "",
+      "image": ""
+    },
+    {
+      "title": "Weather Dashboard",
+      "description": "Interactive weather dashboard that displays current conditions and 7-day forecasts. Integrates with multiple weather APIs and supports location search.",
+      "technologies": ["TypeScript", "Next.js", "Tailwind CSS", "REST API"],
+      "github": "https://github.com/johndoe/weather-dashboard",
+      "live": "",
+      "image": ""
+    },
+    {
+      "title": "CLI Dev Tools",
+      "description": "Collection of developer productivity CLI tools for code scaffolding, project setup, and automated workflows. Published as an npm package.",
+      "technologies": ["Node.js", "TypeScript", "Commander.js"],
+      "github": "https://github.com/johndoe/cli-dev-tools",
+      "live": "",
+      "image": ""
+    }
+  ]
+}

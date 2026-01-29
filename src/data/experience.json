@@ -1,0 +1,37 @@
+{
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Tech Corp",
+      "period": "2022 - Present",
+      "description": "Lead development of customer-facing web applications serving 100k+ users. Architected microservices migration reducing deployment times by 60%.",
+      "highlights": [
+        "Led a team of 4 engineers on the platform redesign project",
+        "Implemented CI/CD pipelines reducing release cycles from weeks to days",
+        "Optimized database queries improving API response times by 40%"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "StartupXYZ",
+      "period": "2020 - 2022",
+      "description": "Built and maintained full-stack features for a B2B SaaS product. Worked closely with product and design teams in a fast-paced environment.",
+      "highlights": [
+        "Developed real-time notification system using WebSockets",
+        "Built reusable component library adopted across 3 product teams",
+        "Wrote comprehensive test suites achieving 85% code coverage"
+      ]
+    },
+    {
+      "title": "Junior Developer",
+      "company": "Digital Agency",
+      "period": "2018 - 2020",
+      "description": "Developed responsive websites and web applications for various clients. Gained strong fundamentals in frontend and backend development.",
+      "highlights": [
+        "Delivered 15+ client projects on time and within budget",
+        "Introduced automated testing practices to the team",
+        "Mentored 2 interns through their onboarding process"
+      ]
+    }
+  ]
+}

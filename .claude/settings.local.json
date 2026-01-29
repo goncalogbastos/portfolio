@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(dir:*)",
+      "Bash(ls:*)",
+      "Bash(npx --yes create-vite@latest temp-setup --template react-ts)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npx --yes shadcn@latest init -d)",
+      "Bash(npx shadcn@latest init:*)",
+      "Bash(npm cache clean:*)",
+      "Bash(npx shadcn:*)",
+      "Bash(npm run build:*)"
+    ]
+  }
+}

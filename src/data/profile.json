@@ -1,0 +1,9 @@
+{
+  "name": "John Doe",
+  "title": "Software Engineer",
+  "summary": "Passionate software engineer with a focus on building clean, scalable, and user-friendly applications. Experienced in full-stack development with modern web technologies. Always eager to learn and tackle new challenges.",
+  "social": {
+    "github": "https://github.com/johndoe",
+    "linkedin": "https://linkedin.com/in/johndoe"
+  }
+}
